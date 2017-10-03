@@ -1,0 +1,139 @@
+*************************************
+Token Bucket ALGORITHM
+Design phone book for mobile,registration system,search engine using trie
+ no solution: https://www.hackerearth.com/practice/data-structures/advanced-data-
+
+structures/trie-keyword-tree/practice-problems/
+Tree map and implementation - red black tree
+
+here are 1 million trades, you need to check if a given trade exists in those trades or 
+
+not. Which Collection would you chose to store those 1 million trades and why ?
+Hint : think from time complexity point of view and why HashSet could be a better data 
+
+structure for storing these trades assuming we have sufficient memory to hold those 
+
+items.
+> http://www.geeksforgeeks.org/data-structure-for-future-reservations-for-a-single-
+
+resource/
+> given a collection of 1 million integers, All ranging between 1 to 9, how would you 
+
+sort them in Big O(n) time ?
+Bucket sort
+http://crackingjavainterviews.blogspot.in/2013/06/given-collection-of-1-million-
+
+integers.html
+
+Dynamic programming
+http://techieme.in/minimum-number-of-coins/
+http://techieme.in/dynamic-programming-longest-common-subsequence/
+staions and platforms problem:
+  http://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
+  https://www.java2blog.com/minimum-number-of-platforms-required-for-railway-station/
+  http://www.ritambhara.in/minimum-number-of-platform-required-for-a-railway-station/
+  last try**: https://stackoverflow.com/questions/10532322/creating-a-distance-map-for-
+
+all-stations-on-a-train-line
+
+
+-------------------------------------------------------------------------
+Array problems:
+How will you find a single duplicate number from a large array in minimum time ?
+common elements between two arrays
+Anagram program
+http://www.geeksforgeeks.org/equilibrium-index-of-an-array/
+--http://techieme.in/find-pair-of-numbers-in-array-with-a-given-sum/
+  http://techieme.in/pair-of-numbers-to-obtain-given-sum/
+  http://www.geeksforgeeks.org/find-subarray-with-given-sum/
+https://www.java2blog.com/data-structure-and-algorithm-interview-questions-in-
+
+java/#Question_32_Find_second_largest_number_in_an_array
+https://www.java2blog.com/data-structure-and-algorithm-interview-questions-in-
+
+java/#Question_33_Find_the_number_occurring_odd_number_of_times_in_an_array
+https://www.java2blog.com/data-structure-and-algorithm-interview-questions-in-
+
+java/#Question_35_Find_a_Pair_Whose_Sum_is_Closest_to_zero_in_Array
+-> https://www.java2blog.com/data-structure-and-algorithm-interview-questions-in-
+
+java/#Question_37_Find_all_pairs_of_elements_from_an_array_whose_sum_is_equal_to_given_nu
+
+mber
+   http://javaconceptoftheday.com/how-to-find-all-pairs-of-elements-in-an-array-whose-
+
+sum-is-equal-to-a-given-number/
+http://www.geeksforgeeks.org/find-union-and-intersection-of-two-unsorted-arrays/
+http://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/
+http://www.geeksforgeeks.org/find-element-given-index-number-rotations/
+http://www.geeksforgeeks.org/find-element-given-index-given-range-reversals/
+http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/
+*********Interesting try this**************
+> Find the largest k numbers in an enormous array of numbers. You cannot sort the array. 
+
+Give the run time of the algorithm.
+   https://www.careercup.com/question?id=6033455032827904
+
+***smallest sub-array
+tree- http://practice.geeksforgeeks.org/problems/smallest-sub-array/0
+Maximum sum-subsequence 
+http://practice.geeksforgeeks.org/problems/maximum-sum-subsequence-of-length-k/0
+
+-------------------------------------------------------------------------
+***String problems:
+http://javaconceptoftheday.com/java-interview-programs-on-strings/
+Find first nonrepeating Character in string
+http://javaconceptoftheday.com/find-longest-substring-without-repeating-characters-java/
+> COunt word occurence in a very large file
+ - Binary mean heap
+COUNT VOWELS In a string
+Remove vowels in a string
+http://www.geeksforgeeks.org/program-count-vowels-string-iterative-recursive/
+http://www.javatechblog.com/java/java-program-to-count-occurrences-of-a-character-in-
+
+string1/
+
+
+
+-------------------------------------------------------------------------
+***Threading
+program to print even and odd numbers
+Producer Consumer problem in java
+
+***Stock problems:
+http://www.geeksforgeeks.org/stock-buy-sell/
+http://techieme.in/maximum-positive-difference/
+http://www.geeksforgeeks.org/the-stock-span-problem/
+https://www.programcreek.com/2014/02/leetcode-best-time-to-buy-and-sell-stock-java/
+https://www.hackerrank.com/challenges/stockmax/forum
+http://articles.leetcode.com/best-time-to-buy-and-sell-stock/
+maximum profit that can be made:
+https://codereview.stackexchange.com/questions/94620/the-stocks-problem-find-the-
+
+biggest-profit-that-can-be-made
+
+company wise java question:
+https://javainterviews.scribbleit.in/question-bank/synechron-java-interview-questions-
+
+for-banking-and-finance/p/C3zfBg
+https://javainterviews.scribbleit.in/question-bank/citibank-java-interview-
+
+questions/p/AbOMCg
+https://javainterviews.scribbleit.in/question-bank/rbs-java-interview-questions/p/AKplCA
+https://javainterviews.scribbleit.in/question-bank/goldman-sachs-java-interview-
+
+questions/p/CfDlBw
+https://javainterviews.scribbleit.in/question-bank/black-rock-java-interview-
+
+questions/p/D2jBBQ
+
+
+Xtra sites with multiple java programming questions:
+**** https://www.java2blog.com/data-structure-and-algorithm-interview-questions-in-java/
+http://javarevisited.blogspot.in/2015/06/top-20-array-interview-questions-and-
+
+answers.html#axzz4tzjXwpVk
+http://javaconceptoftheday.com/java-interview-programs-with-solutions/
+http://javaconceptoftheday.com/java-hashmap-programs-and-examples/
+http://javaconceptoftheday.com/java-interview-programs-on-strings/
+http://www.java67.com/2015/07/array-concepts-interview-questions-answers-java.html
